@@ -1,5 +1,5 @@
-moviepy
 streamlit
+moviepy
 ffmpeg-python
 numpy
 pillow
